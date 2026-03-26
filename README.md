@@ -8,10 +8,10 @@ The portfolio highlights my academic background, technical skills, and readiness
 
 ## 🎨 Design Overview
 
-- **Dark Theme** with neon green accents for a modern, professional look  
-- **Minimal & Clean UI** focused on clarity and readability  
-- **Fully Responsive** across desktop, tablet, and mobile devices  
-- **Smooth Animations & Transitions** for an engaging browsing experience  
+- **Dark Theme** with neon green accents for a modern, professional look.  
+- **Minimal & Clean UI** focused on clarity and readability.  
+- **Fully Responsive** across desktop, tablet, and mobile devices.  
+- **Smooth Animations & Transitions** for an engaging browsing experience.  
 
 ---
 
